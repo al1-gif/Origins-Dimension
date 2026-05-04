@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://github.com/al1-gif",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/al1-gif/Origins-Dimension"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/originsdimension/icon.png",
@@ -29,7 +29,7 @@
 		"originsdimension.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.19.2",
+		"fabricloader": ">=0.18.5",
 		"minecraft": "~1.21.10",
 		"java": ">=21",
 		"fabric-api": "*"

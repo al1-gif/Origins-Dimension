@@ -11,6 +11,6 @@ public class OriginsDimension implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Origins Dimension starting!!!...");
 	}
 }
