@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "originsdimension",
+	"version": "${version}",
+	"name": "Origins Dimension",
+	"description": "Dimensions for Origins",
+	"authors": [
+		"Shuuphe"
+	],
+	"contact": {
+		"homepage": "https://github.com/al1-gif",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/originsdimension/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"meh.shuuphe.originsdimension.OriginsDimension"
+		],
+		"fabric-datagen": [
+			"meh.shuuphe.originsdimension.OriginsDimensionDataGenerator"
+		],
+		"client": [
+			"meh.shuuphe.originsdimension.OriginsDimensionClient"
+		]
+	},
+	"mixins": [
+		"originsdimension.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
