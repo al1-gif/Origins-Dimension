@@ -9,5 +9,12 @@ pluginManagement {
 	}
 }
 
-// Should match your modid
+dependencyResolutionManagement {
+	repositories {
+		maven { url = "https://jitpack.io" }
+		maven { url = "https://maven.fabricmc.net/" }
+		mavenCentral()
+	}
+}
+
 rootProject.name = 'originsdimension'

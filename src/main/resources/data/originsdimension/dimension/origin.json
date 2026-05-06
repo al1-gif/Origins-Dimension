@@ -1,0 +1,132 @@
+{
+  "type": "originsdimension:origin",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "originsdimension:origin",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "originsdimension:origin_ocean",
+          "parameters": {
+            "temperature": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.11
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              1
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "originsdimension:origin_forest",
+          "parameters": {
+            "temperature": [
+              -0.1,
+              0.45
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              0.45
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              1
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "originsdimension:spooky_land",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.1
+            ],
+            "humidity": [
+              -1,
+              0.1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              1
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "originsdimension:origin_flower_forest",
+          "parameters": {
+            "temperature": [
+              0.45,
+              1
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "continentalness": [
+              -0.11,
+              1
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              0,
+              1
+            ],
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}
