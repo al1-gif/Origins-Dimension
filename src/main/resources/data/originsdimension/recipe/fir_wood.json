@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "##", "##" ],
+  "key": { "#": "originsdimension:fir_log" },
+  "result": { "id": "originsdimension:fir_wood", "count": 3 }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "##", "##" ],
+  "key": { "#": "originsdimension:jacaranda_log" },
+  "result": { "id": "originsdimension:jacaranda_wood", "count": 3 }
+}

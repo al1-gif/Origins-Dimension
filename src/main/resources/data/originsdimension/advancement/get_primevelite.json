@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "originsdimension:primevelite_ingot"
+    },
+    "title": {
+      "translate": "advancement.originsdimension.get_primevelite.title"
+    },
+    "description": {
+      "translate": "advancement.originsdimension.get_primevelite.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "originsdimension:enter_origin",
+  "criteria": {
+    "got_primevelite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": "originsdimension:primevelite_ingot" }
+        ]
+      }
+    }
+  }
+}

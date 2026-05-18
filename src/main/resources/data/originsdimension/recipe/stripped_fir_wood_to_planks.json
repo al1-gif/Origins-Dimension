@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ "originsdimension:stripped_fir_wood" ],
+  "result": { "id": "originsdimension:fir_planks", "count": 4 }
+}

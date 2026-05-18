@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "originsdimension:primevelite_block"
+    },
+    "title": {
+      "translate": "advancement.originsdimension.enter_origin.title"
+    },
+    "description": {
+      "translate": "advancement.originsdimension.enter_origin.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "originsdimension:root",
+  "criteria": {
+    "entered_origin": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "originsdimension:origin"
+      }
+    }
+  }
+}

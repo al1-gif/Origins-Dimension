@@ -1,0 +1,67 @@
+{
+  "ivy_reaction_to_egg": {
+    "sounds": ["originsdimension:entity/ivy/ivy_reaction_to_egg"]
+  },
+  "ivy_trade_start": {
+    "sounds": ["originsdimension:entity/ivy/ivy_trade_start"]
+  },
+  "ivy_trade_stop": {
+    "sounds": ["originsdimension:entity/ivy/ivy_trade_stop"]
+  },
+  "nulljaw_die": {
+    "sounds": ["originsdimension:entity/nulljaw/nulljaw_die"]
+  },
+  "nulljaw_eat": {
+    "sounds": ["originsdimension:entity/nulljaw/nulljaw_eat"]
+  },
+  "nulljaw_grumble1": {
+    "sounds": ["originsdimension:entity/nulljaw/nulljaw_grumble1"]
+  },
+  "nulljaw_grumble2": {
+    "sounds": ["originsdimension:entity/nulljaw/nulljaw_grumble2"]
+  },
+  "nulljaw_grumble3": {
+    "sounds": ["originsdimension:entity/nulljaw/nulljaw_grumble3"]
+  },
+  "nulljaw_hurt": {
+    "sounds": ["originsdimension:entity/nulljaw/nulljaw_hurt"]
+  },
+  "cindervane_bite": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_bite"]
+  },
+  "cindervane_die": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_die"]
+  },
+  "cindervane_eat": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_eat"]
+  },
+  "cindervane_flap": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_flap"]
+  },
+  "cindervane_grumble": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_grumble1",
+      "originsdimension:entity/cindervane/cindervane_grumble2",
+      "originsdimension:entity/cindervane/cindervane_grumble3"]
+  },
+  "cindervane_hurt": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_hurt"]
+  },
+  "cindervane_landed": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_landed"]
+  },
+  "cindervane_magma_blast": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_magma_blast"]
+  },
+  "cindervane_roar": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_roar"]
+  },
+  "cindervane_run": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_run"]
+  },
+  "cindervane_slash": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_slash"]
+  },
+  "cindervane_takeoff": {
+    "sounds": ["originsdimension:entity/cindervane/cindervane_takeoff"]
+  }
+}

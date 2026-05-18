@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "id": "originsdimension:silver_ore"
+    },
+    "title": {
+      "translate": "advancement.originsdimension.root.title"
+    },
+    "description": {
+      "translate": "advancement.originsdimension.root.description"
+    },
+    "background": "minecraft:block/spruce_leaves",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

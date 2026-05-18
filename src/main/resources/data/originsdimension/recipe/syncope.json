@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "ingredients",
+  "ingredients": [
+    "minecraft:flint_and_steel",
+    "minecraft:soul_sand"
+  ],
+  "result": {
+    "count": 1,
+    "id": "originsdimension:syncope"
+  }
+}

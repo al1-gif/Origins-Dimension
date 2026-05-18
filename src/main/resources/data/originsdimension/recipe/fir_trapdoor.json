@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": { "#": "originsdimension:fir_planks" },
+  "result": { "id": "originsdimension:fir_trapdoor", "count": 2 }
+}

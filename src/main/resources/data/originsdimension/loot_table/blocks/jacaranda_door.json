@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "originsdimension:jacaranda_door",
+          "properties": { "half": "lower" }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "originsdimension:jacaranda_door"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "originsdimension:item/varasuchus_spawn_egg"
+  }
+}

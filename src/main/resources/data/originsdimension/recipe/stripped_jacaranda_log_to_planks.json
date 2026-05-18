@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ "originsdimension:stripped_jacaranda_log" ],
+  "result": { "id": "originsdimension:jacaranda_planks", "count": 4 }
+}

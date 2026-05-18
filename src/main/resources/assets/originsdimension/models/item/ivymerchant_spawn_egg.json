@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "originsdimension:item/ivymerchant_spawn_egg"
+  }
+}

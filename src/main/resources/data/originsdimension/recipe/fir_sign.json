@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "originsdimension:fir_planks",
+    "S": "minecraft:stick"
+  },
+  "result": { "id": "originsdimension:fir_sign", "count": 3 }
+}

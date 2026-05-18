@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "originsdimension:silver_ingot"
+    },
+    "title": {
+      "translate": "advancement.originsdimension.get_silver.title"
+    },
+    "description": {
+      "translate": "advancement.originsdimension.get_silver.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "originsdimension:enter_origin",
+  "criteria": {
+    "got_silver": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": "originsdimension:silver_ingot" }
+        ]
+      }
+    }
+  }
+}

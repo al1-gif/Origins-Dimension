@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ "originsdimension:fir_planks" ],
+  "result": { "id": "originsdimension:fir_button", "count": 1 }
+}

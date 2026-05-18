@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "originsdimension:block/burning_blossom"
+  }
+}

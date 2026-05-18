@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    " S "
+  ],
+  "key": {
+    "#": "originsdimension:jacaranda_planks",
+    "S": "minecraft:stick"
+  },
+  "result": { "id": "originsdimension:jacaranda_sign", "count": 3 }
+}

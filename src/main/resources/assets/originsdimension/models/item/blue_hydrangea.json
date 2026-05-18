@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "originsdimension:block/blue_hydrangea_top"
+}
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "originsdimension:primevelite_ore",
+    "originsdimension:primevelite_block",
+    "originsdimension:silver_ore",
+    "originsdimension:silver_block",
+    "originsdimension:deepslate_primevelite_ore",
+    "originsdimension:deepslate_silver_ore"
+  ]
+}

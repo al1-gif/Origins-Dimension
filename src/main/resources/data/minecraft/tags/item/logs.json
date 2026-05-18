@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "originsdimension:fir_log",
+    "originsdimension:fir_wood",
+    "originsdimension:stripped_fir_log",
+    "originsdimension:stripped_fir_wood",
+    "originsdimension:jacaranda_log",
+    "originsdimension:jacaranda_wood",
+    "originsdimension:stripped_jacaranda_log",
+    "originsdimension:stripped_jacaranda_wood"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "originsdimension:block/lavender" },
+      { "model": "originsdimension:block/lavender_alt" }
+    ]
+  }
+}

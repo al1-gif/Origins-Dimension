@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "originsdimension:stripped_fir_log",
+    "C": "minecraft:iron_chain"
+  },
+  "result": { "id": "originsdimension:fir_hanging_sign", "count": 6 }
+}

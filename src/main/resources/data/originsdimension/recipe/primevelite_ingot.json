@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "ingredients",
+  "ingredients": [
+    "originsdimension:primevelite_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "originsdimension:primevelite_ingot"
+  }
+}

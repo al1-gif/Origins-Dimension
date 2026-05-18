@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "###" ],
+  "key": { "#": "originsdimension:fir_planks" },
+  "result": { "id": "originsdimension:fir_slab", "count": 6 }
+}

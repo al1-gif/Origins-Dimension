@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "originsdimension:block/fir_sapling"
+  }
+}

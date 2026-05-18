@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "originsdimension:block/jacaranda_slab"
+    },
+    "type=double": {
+      "model": "originsdimension:block/jacaranda_planks"
+    },
+    "type=top": {
+      "model": "originsdimension:block/jacaranda_slab_top"
+    }
+  }
+}

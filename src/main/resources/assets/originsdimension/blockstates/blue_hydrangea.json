@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=lower": { "model": "originsdimension:block/blue_hydrangea_bottom" },
+    "half=upper": { "model": "originsdimension:block/blue_hydrangea_top" }
+  }
+}

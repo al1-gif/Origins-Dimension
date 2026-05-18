@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": "originsdimension:block/fir_door_bottom",
+    "top": "originsdimens:ionblock/fir_door_top"
+  }
+}

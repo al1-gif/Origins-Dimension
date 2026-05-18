@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shelf_body",
+  "textures": {
+    "all": "originsdimension:block/fir_shelf",
+    "particle": "originsdimension:block/stripped_fir_log"
+  }
+}

@@ -8,6 +8,10 @@ group = project.maven_group
 
 repositories {
 	maven { url = "https://jitpack.io" }
+	maven {
+		name = "GeckoLib"
+		url = "https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/"
+	}
 }
 
 fabricApi {
@@ -27,6 +31,7 @@ dependencies {
 
 	modImplementation 'com.github.al1-gif:customportalapi:f4c9bd8a88'
 	include 'com.github.al1-gif:customportalapi:f4c9bd8a88'
+	modImplementation "software.bernie.geckolib:geckolib-fabric-1.21.10:5.3-alpha-3"
 	
 }
 
